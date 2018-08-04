@@ -1,0 +1,64 @@
+var _Elements = {
+    "elements": {
+        "Menus":[
+            {"url": "elements/menu-transparent.html","height": 100, "thumbnail": "elements/thumbnails/menu-transparent.png"},
+            {"url": "elements/menu-white.html","height": 100, "thumbnail": "elements/thumbnails/menu-white.jpg"},
+            {"url": "elements/menu-background.html","height": 100, "thumbnail": "elements/thumbnails/menu-background.jpg"}
+        ],
+        "Home":[
+            {"url": "elements/home1.html","height": 955, "thumbnail": "elements/thumbnails/home1.jpg"},
+            {"url": "elements/home2.html","height": 955, "thumbnail": "elements/thumbnails/home2.jpg"},
+            {"url": "elements/home3.html","height": 955, "thumbnail": "elements/thumbnails/home3.jpg"},
+            {"url": "elements/home4.html","height": 955, "thumbnail": "elements/thumbnails/home4.jpg", "sandbox": true, "loaderFunction": "videoBackgroundInit"},
+            {"url": "elements/home5.html","height": 955, "thumbnail": "elements/thumbnails/home5.jpg"},
+            {"url": "elements/home6.html","height": 955, "thumbnail": "elements/thumbnails/home6.jpg"},
+            {"url": "elements/home7.html","height": 955, "thumbnail": "elements/thumbnails/home7.jpg"},
+            {"url": "elements/home8.html","height": 955, "thumbnail": "elements/thumbnails/home8.jpg"}
+        ],
+        "Content Sections": [
+            {"url": "elements/content1.html","height": 955, "thumbnail": "elements/thumbnails/content1.jpg"},
+            {"url": "elements/content2.html","height": 955, "thumbnail": "elements/thumbnails/content2.jpg"},
+            {"url": "elements/partners-list.html","height": 955, "thumbnail": "elements/thumbnails/partners-list.jpg"},
+            {"url": "elements/icons-blocks.html","height": 955, "thumbnail": "elements/thumbnails/icons-blocks.jpg"},
+            {"url": "elements/subscribe.html","height": 955, "thumbnail": "elements/thumbnails/subscribe.jpg"},
+            {"url": "elements/awards.html","height": 955, "thumbnail": "elements/thumbnails/awards.jpg"},
+            {"url": "elements/call-to-action.html","height": 955, "thumbnail": "elements/thumbnails/call-to-action.jpg"},
+            {"url": "elements/feedback.html","height": 955, "thumbnail": "elements/thumbnails/feedback.jpg", "sandbox": true, "loaderFunction": "flexSliderInit"}
+        ],
+        "Forms":[
+            {"url": "elements/home5.html","height": 955, "thumbnail": "elements/thumbnails/home5.jpg"},
+            {"url": "elements/form1.html","height": 955, "thumbnail": "elements/thumbnails/form1.jpg"},
+            {"url": "elements/form2.html","height": 955, "thumbnail": "elements/thumbnails/form2.jpg"},
+            {"url": "elements/form3.html","height": 955, "thumbnail": "elements/thumbnails/form3.jpg"},
+            {"url": "elements/form4.html","height": 955, "thumbnail": "elements/thumbnails/form4.jpg"},
+            {"url": "elements/lead-generation1.html","height": 955, "thumbnail": "elements/thumbnails/lead-generation1.jpg"},
+            {"url": "elements/lead-generation2.html","height": 955, "thumbnail": "elements/thumbnails/lead-generation2.jpg"},
+            {"url": "elements/lead-generation3.html","height": 955, "thumbnail": "elements/thumbnails/lead-generation3.jpg"},
+            {"url": "elements/clear-form1.html","height": 955, "thumbnail": "elements/thumbnails/clear-form1.jpg"},
+            {"url": "elements/clear-form2.html","height": 955, "thumbnail": "elements/thumbnails/clear-form2.jpg"}
+        ],
+        "Tabs": [
+            {"url": "elements/tabs-horizontal.html","height": 955, "thumbnail": "elements/thumbnails/tabs-horizontal.jpg"},
+            {"url": "elements/tabs-vertical.html","height": 955, "thumbnail": "elements/thumbnails/tabs-vertical.jpg"}
+        ],
+        // "Dividers":[
+
+        // ],
+        // "Portfolios":[
+
+        // ],
+        "Team":[
+            {"url": "elements/team.html","height": 955, "thumbnail": "elements/thumbnails/team.jpg"}
+        ],
+        "Pricing Tables":[
+            {"url": "elements/pricing-table.html","height": 955, "thumbnail": "elements/thumbnails/pricing-table.jpg"}
+        ],
+        // "Contact":[
+
+        // ],
+        "Footers":[
+            {"url": "elements/footer1.html","height": 955, "thumbnail": "elements/thumbnails/footer1.jpg"},
+            {"url": "elements/footer2.html","height": 955, "thumbnail": "elements/thumbnails/footer2.jpg"}
+        ]
+    }
+}
