@@ -227,6 +227,13 @@ h6 {
 .heading {
 	font-size: 16px;
 }
+@font-face {
+	font-family: moderna;
+   	src: url(fonts/moderna.TTF);
+  	/*font-weight: normal;*/
+  	/*font-style: normal;*/
+}
+
 .titulo{
 	display: block;
 	font-family: "Lato", "Helvetica Neue", Arial, Helvetica, sans-serif;
@@ -235,6 +242,11 @@ h6 {
 }
 .tituloB{
 	color: #3a3f51;
+}
+.tituloModerna{
+	font-family: moderna;
+	/*src: url(fonts/moderna.TTF);*/
+
 }
 }
 
